@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi Viewers 👋 I'm Kamal Singh Sukheeja  
 
-<!--
-**kamalsingh999/kamalsingh999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Robotics & Automation Student (2021–2025)  
+💻 Passionate about coding & electronics | Exploring IoT & automation  
+⚡ I like building solutions that are simple, smart, and actually work  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m Working On
+- Robotics & IoT prototypes  
+- Arduino and sensor-based projects  
+- Exploring automation ideas and testing them in real life  
+
+### 🌱 Currently Learning
+- Embedded systems & real-time control  
+- IoT communication protocols  
+- Practical applications of robotics concepts  
+
+### 👯 Open to Collaborate On
+- IoT & robotics projects  
+- Automation-focused research & ideas  
+- Student-driven tech initiatives  
+
+### 💬 Ask Me About
+- Coding for robotics (C/C++ & Python)  
+- Electronics & sensor integration  
+- Designing and prototyping IoT projects  
+
+---
+
+### 📫 Reach Me
+- **LinkedIn:** [kamal-singh-sukheeja](https://www.linkedin.com/in/kamal-singh-sukheeja)  
+- **Email:** techie13055@gmail.com  
+
+---
+
+✨ **Note:** I learn best by experimenting — every project is a step forward.  
