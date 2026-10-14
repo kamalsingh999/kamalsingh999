@@ -22,7 +22,7 @@
 - Student-driven tech initiatives  
 
 ### 💬 Ask Me About
-- Coding for robotics (C/C++ & Python)  
+- Coding for robotics (C/Python)  
 - Electronics & sensor integration  
 - Designing and prototyping IoT projects  
 
