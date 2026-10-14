@@ -30,7 +30,7 @@
 
 ### 📫 Reach Me
 - **LinkedIn:** [kamal-singh-sukheeja](https://www.linkedin.com/in/kamal-singh-sukheeja)  
-- **Email:** techie13055@gmail.com  
+- **Email:** kamalsinghsukheeja@gmail.com 
 
 ---
 
